@@ -1,0 +1,6 @@
+[submodule "tofu_in_hamburger_fe"]
+	path = tofu_in_hamburger_fe
+	url = https://github.com/scla-sagauniv/tofu_in_hamburger_fe.git
+[submodule "tofu_in_hamburger_be"]
+	path = tofu_in_hamburger_be
+	url = https://github.com/scla-sagauniv/tofu_in_hamburger_be.git
